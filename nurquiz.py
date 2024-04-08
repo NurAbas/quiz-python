@@ -4,11 +4,11 @@
 questions = [
     {
         "question": "What does BMW stand for?",
-         "options": ["A:Bavaria Motor Works", "B: Beautiful Mechanical Wonders", "C:Best Motorsport Weapon"],
+         "options": ["A:Bavaria Motor Works", "B: Beautiful Mechanical Wonders", "C:Best Motorsport Weapon","D:Barbarian Motor Works " ],
          "answer": "A"
     },{
         "question": "How many cylinders does a V8 motor have?",
-        "options": ["A:6", "B:14", "C:8"],
+        "options": ["A:6", "B:14", "C:8", "D:4"],
         "answer": "C"
     }, {
         "question": "What does RPM stand for in cars?",
@@ -21,7 +21,7 @@ questions = [
     },  {
         "question": "What does 4WD stand for in cars?",
         "options": ["A: Four Wheel Drive", "B: Forward Wheel Drive", "C: Four Window Design", "D: Forceful Wheel Drive"],
-        "answer": "B"
+        "answer": "A"
     },  {
         "question": "What does GPS help you with while driving?",
         "options": ["A: Entertainment", "B: Fueling", "C: Navigation", "D: Cleaning"],
